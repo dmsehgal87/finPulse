@@ -1,0 +1,16 @@
+<svg class="background">
+  <text id="myLabel"/>
+  <text id="matchLabel" x="50%" y="6%+15"
+      fill="red" font-size="40" font-family="Tungsten-Medium"
+      text-anchor="middle" text-length="200"></text>
+  <text id="score1" x="50%" y="16%+15"
+      fill="white" font-size="30" font-family="Tungsten-Medium"
+      text-anchor="middle" text-length="200"></text>
+  <text id="score2" x="50%" y="28%+15"
+      fill="white" font-size="30" font-family="Tungsten-Medium"
+      text-anchor="middle" text-length="200"></text>
+  <text id="result" x="50%" y="38%+15"
+      fill="yellow" font-size="30" font-family="Tungsten-Medium"
+      text-anchor="middle" text-length="200"></text>
+  <image id="myImage" href="icc.jpg" opacity="0.45" />
+</svg>
