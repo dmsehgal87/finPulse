@@ -13,4 +13,10 @@
       fill="yellow" font-size="30" font-family="Tungsten-Medium"
       text-anchor="middle" text-length="200"></text>
   <image id="myImage" href="icc.jpg" opacity="0.45" />
+  <text id="steps" x="10%" y="90%+15"
+      fill="yellow" font-size="20" font-family="Tungsten-Medium"
+      text-anchor="middle" text-length="200">steps</text>
+  <text id="date" x="90%" y="90%+15"
+      fill="yellow" font-size="20" font-family="Tungsten-Medium"
+      text-anchor="middle" text-length="200">date</text>
 </svg>
