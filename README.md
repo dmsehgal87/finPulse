@@ -1,1 +1,1 @@
-# ICC-watchface
+# watchface
