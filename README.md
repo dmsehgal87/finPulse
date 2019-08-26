@@ -1,1 +1,1 @@
-# watchface
+# finPulse watchface
